@@ -21,6 +21,6 @@ pyOpenSSL==17.2.0
 PyVirtualDisplay==0.2.1
 requests==2.18.4
 six==1.10.0
-selenium==3.4.3
+selenium==4.15.1
 SQLAlchemy==1.1.13
 tornado==4.5.2
