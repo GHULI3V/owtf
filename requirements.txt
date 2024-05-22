@@ -19,7 +19,7 @@ PTP==0.4.2
 pycurl==7.43.0
 pyOpenSSL==17.2.0
 PyVirtualDisplay==0.2.1
-requests==2.18.4
+requests==2.32.0
 six==1.10.0
 selenium==3.4.3
 SQLAlchemy==1.1.13
